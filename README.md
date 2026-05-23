@@ -11,15 +11,23 @@ Professor: Luiz Marcio Fario de Aquino Viana,Pós-D.Sc. (em 2026)
 # Referências
 
 Livro: Geometria Plana
+
 Autor: Celio Pinto de Almeida
+
 Link: https://ermakoff1.websiteseguro.com/v1/downloads.html
+
 
 Livro: Geometria Espacial
+
 Autor: Celio Pinto de Almeida
+
 Link: https://ermakoff1.websiteseguro.com/v1/downloads.html
 
+
 Livro: Introdução à Algebra Elementar
+
 Autor: José Sérgio Domingues, Francielly dos Santos Bento, Tabatha Helena da Silva
+
 Links: https://formiga.ifmg.edu.br/documents/2019/Cursos/Matematica/Livro_algebra-revisado.pdf
 
 # Nota
